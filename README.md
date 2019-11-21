@@ -1,3 +1,4 @@
-# Version-Control-Test-Repo
 
-Test repository made to get used to Git and version control. Mess around and make whatever changes you want. Try to make new branches and add new files.
+<h1>WhaleFall</h1>
+
+<p>If you download this repository, you need to build the project by right-clicking the WhaleFall.uproject file and clicking on "Generate Visual Studio Project Files". The you can open it in Unreal Engine and run</p>
